@@ -42,7 +42,7 @@ This project addresses critical challenges in fire detection and suppression sys
 
 ### 📋 Prerequisites  
 - **Hardware**: Arduino Uno, Flame Sensors, MQ2 Sensor, GSM Module, Servo Motor, Water Pump, and L293 Motor Driver.  
-- **Software**: Arduino IDE.  
+- **Software**: Arduino IDE.
 
 ### ⚡ Setup  
 1. Clone the repository:  
@@ -55,10 +55,12 @@ This project addresses critical challenges in fire detection and suppression sys
 ### ▶️ Run the Project  
 - Power the robot.  
 - Monitor its activities using serial communication in the Arduino IDE.  
-- Alerts and notifications will be sent automatically when a fire or gas leak is detected.  
+- Alerts and notifications will be sent automatically when a fire or gas leak is detected.
+
+## Documentation
+For detailed methodology, results, and analysis, see the [IEEE Report](https://github.com/Jaffer74/AI-Driven-Chatbot-for-Enhanced-Restaurant-Ordering/blob/main/Seamless%20Service%20Evolution%20Enhancing%20Customer%20Satisfaction%20Using%20AWS-Driven%20AI%20Chatbots%20for%20Restaurant%20Ordering%20(1).pdf)
 
 ## 📂 Repository Structure  
-
 ```plaintext
 Autonomous-Firefighting-Robot/
 │
