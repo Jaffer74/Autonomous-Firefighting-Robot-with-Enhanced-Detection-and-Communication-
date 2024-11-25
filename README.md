@@ -1,5 +1,7 @@
 # 🔥 Autonomous Firefighting Robot with Enhanced Detection and Communication  
 
+![Autonomous Firefighting Robot](Images/Autonomous-Firefighting-Robot.png) 
+
 ## 🌟 Introduction  
 This project addresses critical challenges in fire detection and suppression systems, such as delayed response times and limited mobility. The **Autonomous Firefighting Robot** is a state-of-the-art solution designed to detect and extinguish fires autonomously while providing real-time communication with authorities.  
 
@@ -56,11 +58,14 @@ This project addresses critical challenges in fire detection and suppression sys
 - Alerts and notifications will be sent automatically when a fire or gas leak is detected.  
 
 ## 📂 Repository Structure  
-'''
+
+```plaintext
 Autonomous-Firefighting-Robot/
+│
 ├── Arduino_Code/        # Code for Arduino Uno
 ├── Documentation/       # Project reports and diagrams
 ├── Images/              # Robot images and testing scenarios
-└── README.md            # Project readme file
-'''
+└── README.md
+```
+
 
