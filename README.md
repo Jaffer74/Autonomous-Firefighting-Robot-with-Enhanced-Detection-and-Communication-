@@ -1,6 +1,6 @@
 # 🔥 Autonomous Firefighting Robot with Enhanced Detection and Communication  
 
-![Autonomous Firefighting Robot](Images/Autonomous-Firefighting-Robot.png) 
+![Autonomous Firefighting Robot](https://github.com/Jaffer74/Autonomous-Firefighting-Robot-with-Enhanced-Detection-and-Communication-/blob/main/Enhanced_Firefighting_Robot.png) 
 
 ## 🌟 Introduction  
 This project addresses critical challenges in fire detection and suppression systems, such as delayed response times and limited mobility. The **Autonomous Firefighting Robot** is a state-of-the-art solution designed to detect and extinguish fires autonomously while providing real-time communication with authorities.  
