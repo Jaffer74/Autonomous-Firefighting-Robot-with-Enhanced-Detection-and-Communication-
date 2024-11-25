@@ -58,7 +58,7 @@ This project addresses critical challenges in fire detection and suppression sys
 - Alerts and notifications will be sent automatically when a fire or gas leak is detected.
 
 ## Documentation
-For detailed methodology, results, and analysis, see the [IEEE Report](https://github.com/Jaffer74/AI-Driven-Chatbot-for-Enhanced-Restaurant-Ordering/blob/main/Seamless%20Service%20Evolution%20Enhancing%20Customer%20Satisfaction%20Using%20AWS-Driven%20AI%20Chatbots%20for%20Restaurant%20Ordering%20(1).pdf)
+For detailed methodology, results, and analysis, see the [IEEE Report](https://github.com/Jaffer74/Autonomous-Firefighting-Robot-with-Enhanced-Detection-and-Communication-/blob/main/Autonomous%20Fire%20Fighting%20Robot%20Report.pdf)
 
 ## 📂 Repository Structure  
 ```plaintext
